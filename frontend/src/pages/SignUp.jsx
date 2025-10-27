@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import bg from "../assets/VenomAuthBgimg.jpg";
+import bg from "../assets/VenomAuthBgImg.jpg";
 import { IoEye } from "react-icons/io5";
 import { IoEyeOff } from "react-icons/io5";
 import { useNavigate } from "react-router-dom";
